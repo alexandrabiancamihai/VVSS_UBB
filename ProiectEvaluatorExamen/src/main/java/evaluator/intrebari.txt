@@ -1,0 +1,9 @@
+calcul,a1,s1,s1,s1,s1
+a,d,d,d,d,d
+a,cici,cici,cici,cici,a
+calcul,a1,s1,s1,s1,s1
+a,d,d,d,d,d
+a,cici,cici,cici,cici,a
+calcul,a1,s1,s1,s1,s1
+a,d,d,d,d,d
+a,cici,cici,cici,cici,a
